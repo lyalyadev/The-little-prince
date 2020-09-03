@@ -1,0 +1,16 @@
+body {
+    background-color: khaki;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+h2 {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+
+}
+span {
+    font-style: italic;
+}
